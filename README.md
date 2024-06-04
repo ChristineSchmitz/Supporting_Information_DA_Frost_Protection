@@ -32,7 +32,7 @@ For each input variable we calculated the Variable Importance in Projection (VIP
 [`evpi_Rhineland.csv`](https://github.com/ChristineSchmitz/Supporting_Information_DA_Frost_Protection/blob/main/evpi_Rhineland.csv) for the Rhineland
 [`evpi_LakeConstance.csv`](https://github.com/ChristineSchmitz/Supporting_Information_DA_Frost_Protection/blob/main/evpi_LakeConstance.csv) for the Lake Constance region
 
-The results of the Monte Carlo simulation are stored on Zenodo in the repository xxx (Add Link later), as the files are large. 
+The results of the Monte Carlo simulation are stored on Zenodo in the repository [`Model results: Model-based decision support for the choice of active spring frost protection measures in apple production`](https://doi.org/10.5281/zenodo.11470867), as the files are large. 
 
 # References
 [^1]: R Core Team, 2021. R: A language and environment for statistical computing. R Foundation for Statistical Computing, Vienna, Austria.
