@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11473204.svg)](https://doi.org/10.5281/zenodo.11473204)
+
 # Background
 Apple producers are dealing with weather related risks affecting their production. One important risk, is the damage of buds or young fruits by late spring frosts. Fruit growers can protect their apple orchards against this risk in various ways. With our probabilistic model presented in the manuscript on “Model-based decision support for the choice of active spring frost protection measures in apple production” by [Christine Schmitz](https://github.com/ChristineSchmitz), [Lars Zimmermann](https://github.com/Lars-Zimmermann), [Katja Schiffers](https://github.com/katjaschiffers), [Cory Whitney](https://github.com/CWWhitney), Martin Balmer and [Eike Luedeling](https://github.com/eikeluedeling), we want to support the decision between several active frost protection measures. The measures considered in the model are: overhead irrigation, below-canopy irrigation, stationary wind machine, mobile wind machine, tractor-mounted gas heater, portable gas heater, candles and pellet heaters. 
 
