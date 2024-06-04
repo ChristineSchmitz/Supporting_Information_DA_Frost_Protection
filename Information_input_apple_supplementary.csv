@@ -1,0 +1,5 @@
+"","Information","Value","Unit"
+"1","plot_area",4,"ha"
+"2","terrain_correction_needed",1,"1= True  0 = false"
+"3","existing_irrigation_pond",0,"1= True  0 = false"
+"4","groundwater_well",1,"1= True  0 = false"
